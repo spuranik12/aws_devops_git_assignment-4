@@ -1,0 +1,2 @@
+Hi,
+master.txt edited from private branch.
